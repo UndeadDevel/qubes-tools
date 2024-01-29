@@ -1,5 +1,7 @@
-# qubes-tools
-various scripts for more efficient qubesing
+# Qubes tools
+
+Various scripts for more efficient qubesing:
+
 
 ## [Run in focused qube](https://gist.github.com/UndeadDevel/82e5f61c9a5065ab9fc5d23a74ae5045)
 QubesOS DVM caching mechanism + all sorts of useful functions to run on the qube in focus:
