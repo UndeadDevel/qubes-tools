@@ -12,7 +12,7 @@ QubesOS DVM caching mechanism + all sorts of useful functions to run on the qube
   - run other commands on qube in focus
   - count number of open windows of a qube across workspaces
 
-SHA256: af711ac3e5923b711659df5248782e5a328d787b46f517f93ab344c99475242e
+SHA256: 96734fae51e5c91be9963930543213f5ec2731d82cc6c857e1df17caef3d20d0
 
 ## [NetVM toggle](https://gist.github.com/UndeadDevel/0a9e238db4fe58055eb8b1a40515f3b6)
 Toggle whether the qube in focus has the default NetVM or not.  
