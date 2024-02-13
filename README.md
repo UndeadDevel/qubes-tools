@@ -1,7 +1,10 @@
 # Qubes tools
 
 Various scripts for more efficient qubesing.
-Find the SHA256 hash of the Gist zip file beneath each section.
+Find the SHA256 hash of the Gist zip files beneath each section.
+
+SHA512 of the `all_gists.zip` file in this repo, which contains all Gist zip files:
+baac9a0b5ceef1a06f8aa3904bfa4966eda339533b4d3743f387fd98ec14bc9172c38de4d9fe7f6fcccaa4492b9343c086219f95a6a52b88a66fc92b0c38f3fa
 
 
 ## [Run in focused qube](https://gist.github.com/UndeadDevel/82e5f61c9a5065ab9fc5d23a74ae5045)
@@ -12,7 +15,7 @@ QubesOS DVM caching mechanism + all sorts of useful functions to run on the qube
   - run other commands on qube in focus
   - count number of open windows of a qube across workspaces
 
-SHA256: 020a5ba5b0623178aacce11604977968bb061b5aa21c2f9d3d64bc18555ad7f0
+SHA256: 01203e0d4a108da1747e14072b5488ad676f804d9e2109bc411f175894fdd408
 
 ## [NetVM toggle](https://gist.github.com/UndeadDevel/0a9e238db4fe58055eb8b1a40515f3b6)
 Toggle whether the qube in focus has the default NetVM or not.  
