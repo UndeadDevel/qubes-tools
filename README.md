@@ -4,7 +4,7 @@ Various scripts for more efficient qubesing.
 Find the SHA256 hash of the Gist zip files beneath each section.
 
 SHA512 of the `all_gists.zip` file in this repo, which contains all Gist zip files:
-dbe3f1c49270e10c089f8aad6e9cbd1a42d1ced35bb22ebf45a6df8bcc9951ad079e181d74f24025ff1ebb26580adcd8bc8a5ab3516803fbb07831cec93bd58d
+44c7b1cfc79a51e066b986d17bb66580e488266c23464245801aa9e65303f161143fb5b53239f71785f4cc494802dec77b00e2b822561cb3731da3fd20c3c5a8
 
 
 ## [Run in focused qube](https://gist.github.com/UndeadDevel/82e5f61c9a5065ab9fc5d23a74ae5045)
@@ -42,4 +42,4 @@ SHA256: 8c90ec9644fad8d2096f0d27a4a5187120f6d98b45451f71d7d1595c06108132
 ## [Trigger App Menu](https://gist.github.com/UndeadDevel/8501e82a534e5daa2ac60e36945167b9)
 Open the new App Menu via a keyboard shortcut and move the mouse out of the way if necessary.
 
-SHA256: 338f9b69ab4d4991214f2d604f281fcbae49e68f7eb107afd35f1340b70291ae
+SHA256: 5385ed2f7e39dec0de9e5718301754a7a5ba5da03d5dd0c969d60b67114d52fb
